@@ -13,7 +13,7 @@
 ***
 <p align="justify"> Graduating at Analysis and System Development</a></p>
 
-<img align="right" width="325px" src="https://img.freepik.com/vetores-premium/uma-planta-roxa-com-folhas-roxas-e-um-fundo-branco_410516-87817.jpg?w=2000"></a>
+<img align="right" width="200px" src="https://i.pinimg.com/564x/23/55/85/23558521e0e88682e7e1ef66e453f949.jpg?w=2000"></a>
 
 <div align ="left">
 <h3>GitHub Stats</h3>
