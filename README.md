@@ -14,7 +14,7 @@
 
 ### Conect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rayssa-silveira-141a47245) [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ray_silveirs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rayssa-silveira-141a47245) [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ray_silveirs/) 
 
 ### Soft Skills
 
