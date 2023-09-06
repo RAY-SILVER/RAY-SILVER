@@ -10,7 +10,6 @@
 <h1></a>
     <span>Rayssa Silveira🐈‍⬛</span></h1>
 
-
 <p align="justify"> Graduating at Analysis and System Development</a></p>
 
 ### Conect with me
@@ -26,6 +25,5 @@
 <img align="right" width="200px" src="https://i.pinimg.com/564x/23/55/85/23558521e0e88682e7e1ef66e453f949.jpg?w=2000"></a>
 
 <div align ="left">
-<h3>GitHub Stats</h3>
-  
+    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAY-SILVER&theme=transparent&bg_color=000&borderFF00F6lor=30A3DC&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF)
