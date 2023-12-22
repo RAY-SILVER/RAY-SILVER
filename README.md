@@ -38,3 +38,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAY-SILVER&theme=transparent&bg_color=000&borderFF00F6lor=30A3DC&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RAY-SILVER&theme=transparent&background=000&dates=FF00F6)](https://github.com/RAY-SILVER)
