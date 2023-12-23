@@ -29,14 +29,14 @@
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=30A3DC)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
 
-
-<img align="right" width="180px" src="https://i.pinimg.com/564x/23/55/85/23558521e0e88682e7e1ef66e453f949.jpg?w=2000"></a>
+<img align="right" width="280px" src="https://i.pinimg.com/564x/23/55/85/23558521e0e88682e7e1ef66e453f949.jpg?w=2000"></a>
 
 <div align ="left">
 
-### GitHub Stats
-    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAY-SILVER&theme=transparent&bg_color=000&borderFF00F6lor=30A3DC&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF)
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=RAY-SILVER&theme=transparent&bg_color=000&borderFF00F6lor=30A3DC&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF"></a>
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAY-SILVER&repo=nome-do-repositorio&theme=transparent&bg_color=000&borderFF00F6lor=30A3DC&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF"></a>
+
 
 <h1></h1>
 <div align ="center">
